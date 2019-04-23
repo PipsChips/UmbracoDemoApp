@@ -469,7 +469,6 @@
     <Content Include="Views\Partials\SiteLayout\_Work.cshtml" />
     <Content Include="Views\Partials\SiteLayout\_Contact.cshtml" />
     <Content Include="Views\workTemplate.cshtml" />
-    <Content Include="Views\baseTemplate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -530,6 +529,9 @@
     <Content Include="Views\Partials\SiteLayout\_Main.cshtml" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="Views\mainTemplate.cshtml" />
+    <Content Include="Views\homeTemplate.cshtml" />
+    <Content Include="Views\baseTemplate.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
